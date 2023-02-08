@@ -1,5 +1,7 @@
 # CS-325-Project-2-Adjusted-Subbset-Seach
 
+Project Prompt:
+
 The art exhibition organizers really liked your answers to the first group assignment. They
 need your help again for their new project. This time they are holding an exhibition over a long
 weekend, for three days. There are n groups of size g1, g2, . . . , gn registered to attend the event.
